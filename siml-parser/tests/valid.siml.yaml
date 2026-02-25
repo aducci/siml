@@ -1,0 +1,13 @@
+siml: "1.0"
+components:
+  Client:
+    type: client
+  MyService:
+    type: service
+    routes:
+      - method: POST
+        path: /test
+sequences:
+  - name: Test Flow
+    steps:
+      - call: Client -> MyService.POST(/test)
