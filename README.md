@@ -7,7 +7,7 @@
 ╚══════╝╚═╝╚═╝     ╚═╝╚══════╝
 ```
 
-# SIML — Service Interaction Modelling Language
+# SIML — System Interaction Modelling Language
 
 > **Model-first. Diagram-second. AI-ready.**
 > A next-generation, semantically-rich DSL for designing, validating, and visualising service interactions in distributed systems — built for the age of intelligent, autonomous architectures.
